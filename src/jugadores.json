@@ -1,0 +1,75 @@
+[
+    {
+      "nombres": ["maximiliano rodríguez", "maxi rodríguez", "maximiliano rodriguez", "maxi rodriguez", "rodriguez", "rodríguez"],
+      "imagen": "/maxirodriguez.png"
+    },
+    {
+        "nombres": ["alan varela", "varela"], 
+        "imagen": "/alanvarela.png"
+    },
+    {
+      "nombres": ["sebastián torrico", "sebastian torrico", "torrico"],
+      "imagen": "/sebastiantorrico.png"
+    },
+    {
+      "nombres": ["nicolás de la cruz", "nico de la cruz", "de la cruz"],
+      "imagen": "/delacruz.png"
+    },
+    {
+      "nombres": ["aníbal moreno", "moreno"],
+      "imagen": "/anibalmoreno.png"
+    },
+    {
+      "nombres": ["joaquín pereyra", "joaquin pereyra", "pereyra"],
+      "imagen": "/joaquinpereyra.png"
+    },
+    {
+      "nombres": ["ignacio malcorra", "malcorra"],
+      "imagen": "/ignaciomalcorra.png"
+    },
+    {
+      "nombres": ["willer ditta", "ditta"],
+      "imagen": "/willerditta.png"
+    },
+    {
+      "nombres": ["carlos quintana", "quintana"],
+      "imagen": "/carlosquintana.png"
+    },
+    {
+      "nombres": ["pablo vegetti", "vegetti"],
+      "imagen": "/pablovegetti.png"
+    },
+    {
+      "nombres": ["nicolás figal", "nicolas figal", "figal"],
+      "imagen": "/nicolasfigal.png"
+    },
+    {
+      "nombres": ["milton casco", "casco"],
+      "imagen": "/miltoncasco.png"
+    },
+    {
+      "nombres": ["carlos luna", "el chino luna", "carlos chino luna", "chino luna", "luna"],
+      "imagen": "/carlosluna.png"
+    },
+    {
+      "nombres": ["lisandro lópez", "lisandro lopez", "licha lópez", "lópez", "lopez"],
+      "imagen": "/lisandrolopez.png"
+    },
+    {
+      "nombres": ["gonzalo martinez", "gonzalo pity martinez", "martinez", "pity"],
+      "imagen": "/gonzalomartinez.png"
+    },
+    {
+      "nombres": ["diego rodríguez", "diego rodriguez", "rodriguez", "rodríguez"],
+      "imagen": "/diegorodriguez.png"
+    },
+    {
+      "nombres": ["pablo solari", "solari"],
+      "imagen": "/pablosolari.png"
+    },
+    {
+      "nombres": ["pablo piatti", "piatti"],
+      "imagen": "/pablopiatti.png"
+    }
+  ]
+  
