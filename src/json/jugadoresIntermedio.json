@@ -1,0 +1,43 @@
+[
+    {
+      "nombres": ["carlos quintana", "quintana"],
+      "imagen": "/carlosquintana.png"
+    },
+    {
+        "nombres": ["diego rodriguez", "rodriguez"], 
+        "imagen": "/diegorodriguez.png"
+    },
+    {
+      "nombres": ["anibal moreno", "moreno"],
+      "imagen": "/anibalmoreno.png"
+    }, 
+    {
+        "nombres": ["willer ditta", "ditta"],
+        "imagen": "/willerditta.png"
+    },
+    {
+      "nombres": ["pablo piatti", "piatti"],
+      "imagen": "/pablopiatti.png"
+    },
+    {
+        "nombres": ["ivan marcone", "marcone"],
+        "imagen": "/ivanmarcone.png" 
+    },
+    {
+        "nombres": ["matias rojas", "rojas"],
+        "imagen": "/matiasrojas.png" 
+    },
+    {
+        "nombres": ["facundo farias", "farias"],
+        "imagen": "/facundofarias.png" 
+    },
+    {
+        "nombres": ["ezequiel unsain", "unsain"],
+        "imagen": "/ezequielunsain.png" 
+    },
+    {
+        "nombres": ["brahian aleman", "aleman"],
+        "imagen": "/brahianaleman.png" 
+    }
+  ]
+  

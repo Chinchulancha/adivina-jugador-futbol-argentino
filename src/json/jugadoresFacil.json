@@ -1,7 +1,7 @@
 [
     {
       "nombres": ["maximiliano rodríguez", "maxi rodríguez", "maximiliano rodriguez", "maxi rodriguez", "rodriguez", "rodríguez"],
-      "imagen": "/maxirodriguez.png"
+      "imagen": "/maxirodriguez.png" 
     },
     {
         "nombres": ["alan varela", "varela"], 
@@ -16,24 +16,8 @@
       "imagen": "/delacruz.png"
     },
     {
-      "nombres": ["aníbal moreno", "moreno"],
-      "imagen": "/anibalmoreno.png"
-    },
-    {
-      "nombres": ["joaquín pereyra", "joaquin pereyra", "pereyra"],
-      "imagen": "/joaquinpereyra.png"
-    },
-    {
       "nombres": ["ignacio malcorra", "malcorra"],
       "imagen": "/ignaciomalcorra.png"
-    },
-    {
-      "nombres": ["willer ditta", "ditta"],
-      "imagen": "/willerditta.png"
-    },
-    {
-      "nombres": ["carlos quintana", "quintana"],
-      "imagen": "/carlosquintana.png"
     },
     {
       "nombres": ["pablo vegetti", "vegetti"],
@@ -60,16 +44,8 @@
       "imagen": "/gonzalomartinez.png"
     },
     {
-      "nombres": ["diego rodríguez", "diego rodriguez", "rodriguez", "rodríguez"],
-      "imagen": "/diegorodriguez.png"
-    },
-    {
       "nombres": ["pablo solari", "solari"],
       "imagen": "/pablosolari.png"
-    },
-    {
-      "nombres": ["pablo piatti", "piatti"],
-      "imagen": "/pablopiatti.png"
     }
   ]
   

@@ -1,0 +1,23 @@
+[
+    {
+      "nombres": ["federico vera", "vera"],
+      "imagen": "/federicovera.png"
+    },
+    {
+        "nombres": ["francesco lo celso", "lo celso"], 
+        "imagen": "/francescolocelso.png"
+    },
+    {
+        "nombres": ["angelo martino", "martino"], 
+        "imagen": "/angelomartino.png"
+    },
+    {
+        "nombres": ["eric meza", "meza"], 
+        "imagen": "/ericmeza.png"
+    },
+    {
+        "nombres": ["guillermo balzi", "balzi"], 
+        "imagen": "/guillermobalzi.png"
+    }
+  ]
+  
